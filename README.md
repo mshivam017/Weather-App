@@ -89,27 +89,6 @@ A beautiful, responsive weather application built with React that provides real-
    - Navigate to `http://localhost:3000`
    - The app will automatically load weather for Mumbai
 
-## 📁 Project Structure
-
-```
-weather-app/
-│
-├── public/
-│   ├── index.html
-│   └── ...
-│
-├── src/
-│   ├── components/
-│   │   └── WeatherApp.jsx     # Main weather component
-│   ├── App.js                 # App root component
-│   ├── index.js              # Entry point
-│   └── ...
-│
-├── package.json
-├── tailwind.config.js
-├── README.md
-└── ...
-```
 
 ## 🎯 Usage
 
@@ -219,15 +198,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 - [React](https://reactjs.org/) for the amazing frontend library
 
-## 📞 Support
-
-If you have any questions or need help with the app:
-
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/weather-app/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/weather-app/discussions)
-
----
 
 **Made with ❤️ and React**
 
